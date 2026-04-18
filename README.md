@@ -9,7 +9,7 @@
 
 ## 📌 Project Overview
 
-This project builds an end-to-end **Machine Learning Regression Pipeline** to predict house prices using property-related features such as bedrooms, bathrooms, square footage, and location.
+This project builds an end-to-end **Machine Learning Regression Pipeline** to predict house prices using property-related features such as bedrooms, bathrooms, square footage, and location and floors.
 
 The project demonstrates the complete ML workflow:
 
