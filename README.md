@@ -23,7 +23,7 @@ The project demonstrates the complete ML workflow:
 
 Two regression models were implemented and compared:
 
-- 🌳 Random Forest Regressor
+- 🌳 Random Forest Regressoion.
 - 📈 Linear Regression
 
 ---
